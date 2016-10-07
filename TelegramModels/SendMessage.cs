@@ -12,7 +12,7 @@
 
         public int reply_to_message_id { get; set; }
 
-        public object reply_markup { get; set; }
+        //public object reply_markup { get; set; }
 
     }
 }
